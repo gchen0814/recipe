@@ -20,3 +20,6 @@ last line changed locally
   <li>Unordered Third item</li>
   <li>Unordered Fourth item</li>
 </ul>
+
+<strong>This is bold</strong>
+<em>This is italicized</em>
