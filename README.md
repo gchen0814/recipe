@@ -23,3 +23,5 @@ last line changed locally
 
 <strong>This is bold</strong>
 <em>This is italicized</em>
+
+![Receipe!](receipe.jpg "Receipe")
